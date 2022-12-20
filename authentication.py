@@ -15,10 +15,10 @@ config = {
 firebase = pyrebase.initialize_app(config)
 auth = firebase.auth()
 
-email='fernaoguerra@gmail.com'
+email='youremail@gmail.com'
 password = '123456'
 
+# Use this to create a user with email 
 user = auth.create_user_with_email_and_password(email, password) 
 print(user)
 
-# user = auth.sign_in_with_email_and_password(email, password)
