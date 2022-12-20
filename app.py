@@ -5,13 +5,13 @@ import traceback
 app = Flask(__name__)
 
 config = {
-  "apiKey":"AIzaSyDXjvxMN5YUtXnr5z_RnVG8m0x_fWziLLQ",
-  "authDomain": "farialimajobsadmin.firebaseapp.com",
-  "projectId": "farialimajobsadmin",
-  "storageBucket": "farialimajobsadmin.appspot.com",
-  "messagingSenderId": "26442600891",
-  "appId": "1:26442600891:web:787a9f63fa8012be28349e",
-  "measurementId": "G-3RFQV2Z2V7",
+  "apiKey":"add your firebase info here",
+  "authDomain": "add your firebase info here",
+  "projectId": "add your firebase info here",
+  "storageBucket": "add your firebase info here",
+  "messagingSenderId": "add your firebase info here",
+  "appId": "add your firebase info here",
+  "measurementId": "add your firebase info here",
   "databaseURL": ""
 }
 
